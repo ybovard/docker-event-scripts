@@ -1,0 +1,3 @@
+[console_scripts]
+des = des.cli:main
+
