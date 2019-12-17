@@ -1,0 +1,1 @@
+/usr/bin/python3 /etc/docker/events.d/container/start.py
