@@ -6,3 +6,4 @@ RUN apk update && apk upgrade && \
     mkdir -p /etc/docker/events.d
 
 ENTRYPOINT /usr/bin/des
+CMD ["-d /etc/docker/events.d" ]
